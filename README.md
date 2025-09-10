@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rrajput-LiDAR
+- 👋 Hi, I’m @rrajput
 - 👀 I’m interested in AI based research
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on object detection and tracking
