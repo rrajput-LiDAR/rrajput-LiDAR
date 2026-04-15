@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on object detection and tracking
 - 📫 How to reach me : rrajputapple09@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Always avaialbe beacause I am single
+  
 
 
